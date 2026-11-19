@@ -1,0 +1,6 @@
+{
+  "name": "Gliss",
+  "description": "A minimalist keyboard-controlled sliding puzzle game for laptops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
